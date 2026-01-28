@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/substack/Fall in Love with Yourself/"}
 ---
 
+tags: [[indexes/substacknotes\|substacknotes]], 
 
 I’ve been thinking for a very long time about being a kid. Even though I’m not anywhere near old. The concept of an ‘inner child’ speaks to me more now than ever, cause it feels like all I’m doing every day is drowning myself in either nostalgia or hazy dreams for the future. I want to live like a kid again. I want to create like a kid again and think like a kid again. Maybe if I did, I’d be *her* again. ‘Smart for my age’, ‘so very strong’, and ‘an old soul’.
 

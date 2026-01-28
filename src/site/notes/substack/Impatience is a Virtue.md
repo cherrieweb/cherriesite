@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/substack/Impatience is a Virtue/"}
 ---
 
+tags: [[indexes/substacknotes\|substacknotes]], 
 
 Ive always been a little bit ashamed of my impatience. It sounds too much like a bad thing, too much like lack of care, or respect, or even just calm. It sounds like this rash, abrasive thing that snowballs into bad decisions and reckless, destructive behaviour.
 

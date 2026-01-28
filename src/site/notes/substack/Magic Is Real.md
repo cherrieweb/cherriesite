@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/substack/Magic Is Real/"}
 ---
 
+tags: [[indexes/substacknotes\|substacknotes]], 
 
 Magic exists in our world. The only issue is that soon as we figure out how something works, we call it science. The only difference between a witch and me is that she calls her mixture of boiled water and herbs “potions” and I call mine tea. The same way the only difference between our world and a world that has magic is that they call it magic, and we don’t.
 
