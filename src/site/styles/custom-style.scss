@@ -3,14 +3,7 @@ body {
       ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
    ***/
-    //  background-image: url("https://file.garden/aXw-mZdsrw88UV9y/root/obsidian/star.jpeg");
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
-    background-image: url("https://file.garden/aXw-mZdsrw88UV9y/root/obsidian/star.jpeg");
-    background-repeat: no-repeat;
-    background-width: 100%;
+    --dg-content-background-image: url("https://file.garden/aXw-mZdsrw88UV9y/root/obsidian/star.jpeg");
+    --dg-content-background-repeat: no-repeat;
+    --dg-content-background-width: 100%;
 }
